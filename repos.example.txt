@@ -1,0 +1,6 @@
+# git-migrate-github 批量迁移列表
+# 每行一个项目路径，# 开头为注释
+
+~/project/my-app-1
+~/project/my-app-2
+# ~/project/skip-this-one
